@@ -1,0 +1,16 @@
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
+
+# IDEA:
+.idea/
+
+## File-based project format:
+*.iws
+*.iml
+
+## Plugin-specific files:
+
+# IntelliJ
+/out/
+target/
